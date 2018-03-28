@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Qoraan2</string>
+
+    <string-array name="parts">
+
+        <item>الجزء الأول</item>
+        <item>الجزء الثانى</item>
+        <item>الجزء الثالث</item>
+        <item>الجزء الرابع</item>
+        <item>الجزء الخامس</item>
+        <item>الجزء السادس</item>
+        <item>الجزء السابع</item>
+        <item>الجزء الثامن</item>
+        <item>الجزء التاسع</item>
+        <item>الجزء العاشر</item>
+        <item>الجزء الحادى عشر</item>
+        <item>الجزء الثانى عشر</item>
+        <item>الجزء الثالث عشر</item>
+        <item>الجزء الرابع عشر</item>
+        <item>الجزء الخامس عشر</item>
+        <item>الجزء السادس عشر</item>
+        <item>الجزء السابع عشر</item>
+        <item>الجزء الثامن عشر</item>
+        <item>الجزء التاسع عشر</item>
+        <item>الجزء العشرون</item>
+        <item>الجزء الحادى و العشرون</item>
+        <item>الجزء الثانى و العشرون</item>
+        <item>الجزء الثالث و العشرون</item>
+        <item>الجزء الرابع و العشرون</item>
+        <item>الجزء الخامس و العشرون</item>
+        <item>الجزء السادس و العشرون</item>
+        <item>الجزء السابع و العشرون</item>
+        <item>الجزء الثامن و العشرون</item>
+        <item>الجزء التاسع و العشرون</item>
+        <item>الجزء الثلاثون</item>
+    </string-array>
+
+
+</resources>
